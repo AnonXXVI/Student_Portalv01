@@ -320,5 +320,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     color: '#EFEFF3'
   }
-  
+
 });
+
+
